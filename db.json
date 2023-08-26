@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "firstName": "pegah",
+      "lastName": "jahani",
+      "age": "30",
+      "job": "programmer",
+      "phoneNumber": "09902204659",
+      "id": 1
+    },
+    {
+      "firstName": "mohsen",
+      "lastName": "shahab",
+      "age": "33",
+      "job": "teacher",
+      "phoneNumber": "09123549114",
+      "id": 2
+    }
+  ]
+}
